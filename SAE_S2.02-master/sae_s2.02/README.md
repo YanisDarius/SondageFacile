@@ -1,3 +1,2 @@
 
-le site se trouve dans ci/index.php/accueil
-[accéder au site](https://dwarves.iut-fbleau.fr/~chauveau/SAE_S2.02/ci/index.php/accueil)
+le site se trouve dans ci/index.php/accueil et il faut la connecter a une base de donnée
